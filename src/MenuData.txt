@@ -1,0 +1,86 @@
+﻿Chips_&_Dip 8.0
+Buffalo_Blue_Chips 6.0
+Chicken_Nachos 8.5
+Pork_Nachos 8.5
+Pork_Sliders 5.0
+Chicken_Sliders 5.0
+Catfish_Bites 6.5
+Fried_Veggies 6.5
+Fried_Cheese 7.5
+Cheese_Stick_Trio 14.0
+Chicken_Quesadilla 7.5
+Cast_Iron_Skillet_Meatballs 12
+Wings_(6_Count) 8.25
+Wings_(12_Count) 15
+
+House_Salad 7.5 5
+Wedge_Salad 7.5
+Caesar_Salad 7.5 5
+Sweet_Potato_Chicken_Salad 11.5
+
+Shrimp_&_Grits 13.5
+Sweet_Tea_Fried_Chicken 11.5
+Caribbean_Chicken 11.5
+Grilled_Pork_Chops 11.0
+12_Oz_New_York_Strip_Steak 17.0
+Seared_Tuna 15.0
+Captain_Crunch_Chicken_Tenders 11.5
+Shock_Top_Grouper_Fingers 11.5
+Mac_&_Cheese_Bar 8.5
+
+Grilled_Cheese_(Multigrain_Bread) 5.5
+Grilled_Cheese_(White_Bread) 5.5
+100%_Beef_Hot_Dog 5.5
+Chicken_BLT&A 10.0
+Cordon_Bleu 11.0
+Philly_(Steak) 13.5
+Philly_(Chicken) 13.5
+Pulled_Pork 9.5
+Club 10.0
+Meatball_Sub 10.0
+Po_Boy_(Shrimp) 11.5
+Po_Boy_(Catfish) 11.5
+
+Club 10.0
+Chicken_BLT&A 10.0
+Veggie 10.0
+Chicken_Caesar 10.0
+
+J's_Burger 10.0
+J's_Burger_(With_Cheese) 10.5
+Bacon_Cheeseburger 11.0
+Mushroom_Swiss_Burger 11.0
+Carolina_Burger 8.5
+Vegan_Boca_Burger 10.5
+
+Coffee
+Sweet_Tea
+Unsweet_Tea
+Coke
+Diet_Coke
+Sprite
+Mr.Pibb
+Ginger_Ale
+Barq's_Root_Beer
+Bottled_Water
+Lemonade
+Milk
+Chocolate_Milk
+Orange_Juice
+
+Curly_Fries
+Wing_Chips
+Sweet_Potato_Fries_(+$1.5) 1.5
+Creamy_Cabbage_Slaw
+Adluh_Cheese_Grits
+Mashed_Potatoes
+Mac_&_Cheese
+Spicy_Mac_&_Cheese
+Bacon_Mac_&_Cheese
+Broccoli
+Seasonal_Vegetables
+Baked_Beans
+Fried_Okra_(+$1.5) 1.5
+Soup 2.5
+House_Salad_(Side) 2.5
+Caesar_Salad_(Side) 2.5
